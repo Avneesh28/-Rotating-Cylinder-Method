@@ -1,24 +1,25 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>REC Banda
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Lab
+<b> Experiment|     <b> Rotating Cylinder Method
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+ Create a VR model of 
+the rotating cylinder apparatus.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Avneesh Kumar
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Rajkiya Engineering College Banda
+<b> Email id|     <b>  rajukutriya29@gmail.com
+<b> Department |  Information Technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Avneesh Kumar| Student | Information Technology | REC Banda | rajukutriya29@gmail.com
+2 | Ayush Kumar | Student | Information Technology | REC Banda | xyz@gmail.com
